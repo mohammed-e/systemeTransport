@@ -15,7 +15,6 @@ Commande de compilation : make<br />
 <br />
 Commandes d'exécution : ./main data.txt<br />
 (./main data2.txt)<br />
-<br />
 NB : Vous pouvez remplacer data.txt par tout fichier respectant la convention donnée (voir data.txt ou data2.txt).<br />
 <br />
 Commande de suppression : make clean<br />
