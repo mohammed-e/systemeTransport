@@ -19,4 +19,4 @@ NB : Vous pouvez remplacer data.txt par tout fichier respectant la convention do
 <br />
 Commande de suppression : make clean<br />
 <br />
-Le rapport vous fournira plus explications sur ce projet.
+Le <a href="./rapport.pdf">rapport</a> vous fournira plus explications sur ce projet.
